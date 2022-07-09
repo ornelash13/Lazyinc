@@ -1,7 +1,7 @@
-# cheka-os
+# Lazyinc
 ### Name: Hector Abraham Ornelas Figueroa
-### Name of project: Cheka-oS
-### Date: July 5, 2022
+### Name of project: Lazyinc Network System
+### Date: July 9, 2022
 ### Version: .001
-Something new that I'm about to create I don't know yet but this is only three beginning
+Lazyinc is a Site Management Sytem
 #Hello
